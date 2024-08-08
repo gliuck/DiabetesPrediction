@@ -44,7 +44,7 @@ The following metrics were used to evaluate the performance of the models:
 - **Confusion Matrix**
 
 ## Conclusion ✅ 
-The results indicate that the models achieved varying levels of accuracy and F1 scores. However, there is room for improvement, particularly in addressing any class imbalances and tuning model hyperparameters.
+The results indicate that the models achieved different levels of accuracy and F1 scores. However, there is room for improvement, particularly in the fine-tuning of the model's hyper-parameters.
 
 ## Libraries Used  📚 
 - `pandas`
